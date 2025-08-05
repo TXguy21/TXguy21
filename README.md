@@ -16,9 +16,15 @@ Drawing from my journey, including earning my Sifu title in traditional martial 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Security Audit and Risk assessment            | - **Project:** [Botium Toys Security Audit and Risk Assessment](https://docs.google.com/document/d/1z1PP59sWQ9yF8zYlDaP6MkfVrem4_fl0DthxTy6tW4Y/edit?tab=t.0)
+### Security Audit and Risk management
+- **Project:** [Botium Toys Security Audit and Risk Assessment](https://docs.google.com/document/d/1z1PP59sWQ9yF8zYlDaP6MkfVrem4_fl0DthxTy6tW4Y/edit?tab=t.0)
 - **Report:** [Botium Toys Scope, Goals, and Risk Assessment Report](https://docs.google.com/document/d/1z1PP59sWQ9yF8zYlDaP6MkfVrem4_fl0DthxTy6tW4Y/edit?tab=t.0)|
+
+***
+
+### Network Traffic Monitoring and Attack Detection Lab
+- **Project:** [Analyzing Network Layer Communication Project Report](https://docs.google.com/document/d/1z1PP59sWQ9yF8zYlDaP6MkfVrem4_fl0DthxTy6tW4Y/edit?tab=t.0)
+- **Activity:** [Analyze Network Layer Communication Screenshot](https://docs.google.com/document/d/1z1PP59sWQ9yF8zYlDaP6MkfVrem4_fl0DthxTy6tW4Y/edit?tab=t.0)|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
