@@ -95,5 +95,5 @@ I am actively seeking opportunities to apply my diverse skill set and passion fo
 
  <a href="https://linkedin.com/in/william-miller-a3923025a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-* **Email**: [Your Email Address]
+<a href="mailto:whmiller387@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 * **GitHub**: [Your GitHub Profile URL (if this is not the main one)]
